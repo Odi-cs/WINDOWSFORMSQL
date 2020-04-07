@@ -1,0 +1,9 @@
+D:\Study\2 курс\OOП\ADO.NET_1\bin\Debug\ADO.NET_1.exe.config
+D:\Study\2 курс\OOП\ADO.NET_1\bin\Debug\ADO.NET_1.exe
+D:\Study\2 курс\OOП\ADO.NET_1\bin\Debug\ADO.NET_1.pdb
+D:\Study\2 курс\OOП\ADO.NET_1\obj\Debug\ADO.NET_1.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\ADO.NET_1\obj\Debug\ADO.NET_1.MainForm.resources
+D:\Study\2 курс\OOП\ADO.NET_1\obj\Debug\ADO.NET_1.Properties.Resources.resources
+D:\Study\2 курс\OOП\ADO.NET_1\obj\Debug\ADO.NET_1.csproj.GenerateResource.cache
+D:\Study\2 курс\OOП\ADO.NET_1\obj\Debug\ADO.NET_1.exe
+D:\Study\2 курс\OOП\ADO.NET_1\obj\Debug\ADO.NET_1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Vadim\source\repos\ADO.NETKWORK\bin\Debug\ADO.NET_1.exe.config
+C:\Users\Vadim\source\repos\ADO.NETKWORK\bin\Debug\ADO.NET_1.exe
+C:\Users\Vadim\source\repos\ADO.NETKWORK\bin\Debug\ADO.NET_1.pdb
+C:\Users\Vadim\source\repos\ADO.NETKWORK\obj\Debug\ADO.NETKWORK.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\ADO.NETKWORK\obj\Debug\ADO.NET_1.MainForm.resources
+C:\Users\Vadim\source\repos\ADO.NETKWORK\obj\Debug\ADO.NET_1.Properties.Resources.resources
+C:\Users\Vadim\source\repos\ADO.NETKWORK\obj\Debug\ADO.NETKWORK.csproj.GenerateResource.cache
+C:\Users\Vadim\source\repos\ADO.NETKWORK\obj\Debug\ADO.NET_1.exe
+C:\Users\Vadim\source\repos\ADO.NETKWORK\obj\Debug\ADO.NET_1.pdb
